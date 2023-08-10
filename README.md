@@ -22,4 +22,9 @@ The discriminator acts as a critic, distinguishing between real data and data ge
 
 During training, the generator and discriminator compete in a series of iterations. The generator aims to create images that deceive the discriminator, while the discriminator aims to correctly classify real and generated images. This competition leads to the refinement of the generator's ability to produce convincing map-like images.
 
-![Screenshot](assests/output.gif)
+<p align="center">
+
+    ![Screenshot](assests/output.gif)
+
+</p>
+
