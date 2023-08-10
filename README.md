@@ -17,6 +17,8 @@ The discriminator acts as a critic, distinguishing between real data and data ge
 
 ![Screenshot](assests/data_flow.png)
 
+# Dataset
+The dataset can be downloaded from Kaggle: [link](https://www.kaggle.com/vikramtiwari/pix2pix-dataset).
 
 # Training 
 
@@ -36,5 +38,3 @@ During training, the generator and discriminator compete in a series of iteratio
   <img src="assests/discriminator_history.png"/>
 </p>
 
-# Dataset
-The dataset can be downloaded from Kaggle: [link](https://www.kaggle.com/vikramtiwari/pix2pix-dataset).
