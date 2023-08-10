@@ -24,7 +24,7 @@ During training, the generator and discriminator compete in a series of iteratio
 
 <p align="center">
 
-    ![Screenshot](assests/output.gif)
+     <src="assests/output.gif">
 
 </p>
 
