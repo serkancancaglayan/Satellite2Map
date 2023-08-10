@@ -7,4 +7,5 @@ The Satellite-to-Map GAN project showcases the power of deep learning in transfo
 
 Pix2Pix is a GAN architecture that's designed for image-to-image translation tasks. It was introduced by researchers at the University of California, Berkeley, in their 2016 paper titled "Image-to-Image Translation with Conditional Adversarial Networks."
 
+
 https://arxiv.org/abs/1611.07004
