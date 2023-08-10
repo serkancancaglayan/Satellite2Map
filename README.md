@@ -26,3 +26,13 @@ During training, the generator and discriminator compete in a series of iteratio
   <img src="assests/output.gif" alt="animated" />
 </p>
 
+# Train History 
+
+<p align="center">
+  <img src="assests/generator_history.png"/>
+</p>
+
+<p align="center">
+  <img src="assests/discriminator_history.png"/>
+</p>
+
